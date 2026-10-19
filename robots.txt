@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://docaura.github.io/sitemap.xml
